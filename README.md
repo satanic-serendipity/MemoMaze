@@ -56,13 +56,22 @@ python main.py
 ## 📷 Screenshots
 
 ### Screenshot 1: Game Start Screen
-![Start Screen](screenshots/start_screen.png)
+![Screenshot 2025-02-02 211945](https://github.com/user-attachments/assets/2d3d8e58-34fc-44c0-9a4f-badf21f60d92)
 
-### Screenshot 2: Top View of the Maze (before transformation)
-![Top View](screenshots/top_view.png)
+### Screenshot 2: Instructions
+![Screenshot 2025-02-02 212000](https://github.com/user-attachments/assets/59c0cf28-990c-448a-8e60-82670fc9b9d2)
 
-### Screenshot 3: First-Person View of the Maze
-![First-Person View](screenshots/first_person_view.png)
+### Screenshot 3: Top View of the Maze 
+![Screenshot 2025-02-02 212136](https://github.com/user-attachments/assets/0b6f7e3f-0deb-4313-bd91-9c15001ecf83)
+
+### Screenshot 4: First-Person View of the Maze (Corridor)
+![Screenshot 2025-02-02 212301](https://github.com/user-attachments/assets/950ebecf-5aa8-40b4-9d08-c8708834b8a0)
+
+### Screenshot 5: First-Person View of the Maze (Exit):
+![Screenshot 2025-02-02 212108](https://github.com/user-attachments/assets/c4f8843d-81d1-496c-9680-bb06e61dd43a)
+
+### Screenshot 6: Game Over Screen
+![Screenshot 2025-02-02 212122](https://github.com/user-attachments/assets/4a88fb7c-6e97-407f-b606-0881fe28db2f)
 
 ## 📷 Assets Used
 
